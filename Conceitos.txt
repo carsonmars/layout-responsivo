@@ -29,3 +29,5 @@ seletor {
 >> Uma das unidades de medidas além de px e % é vw (viewport).
 
 >> Caso as imagens não possua semântica no arquivo html, ela será colocada apenas pelo CSS.
+
+>> @media para criar o CSS condicional. Normalmente usando para fazer responsividade.
