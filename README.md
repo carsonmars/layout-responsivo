@@ -5,3 +5,5 @@ Design dos layouts: https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-M
 Projeto de estudo de Layouts responsivos.
 
 (Curso Layouts Responsivos: Trabalhando com layouts mobile)
+
+Projeto finalizado: https://carsonmars.github.io/layout-responsivo/
