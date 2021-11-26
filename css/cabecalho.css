@@ -1,5 +1,5 @@
 .cabecalho {
-    color: #FFF;
+    color: var(--branco);
 
     width: 100%;
 
@@ -8,11 +8,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* rem - root em >> nesse caso se refere ao html, logo se eu mudar default da tag html ela alterar tudo que usa rem proporcionalmente. */
     padding-top: .75rem;
     padding-bottom: .75rem;
 
-    border-bottom: 1px solid #103D4A;
+    border-bottom: 1px solid var(--borda-cabecalho-mobile);
 
     position: absolute;
 }

@@ -1,0 +1,27 @@
+>> Como funciona o emmet? 
+Exemplo de uso de Emmet header>img+nav>ul>li*6>a
+
+>> Uso do Reset.CSS antes de qualquer estilização, para o reset não passar por cima da folha de estilo que você estará usando ou desenvolvendo.
+
+>> Importação de fontes do Google Fontes.
+
+>> em e rem >> são unidades relativas.
+
+>> rem - << root em >> nesse caso se refere ao html, logo se eu mudar o value default da tag <html> tudo que usa rem será alterado proporcionalmente. 
+
+>> REM é uma unidade relativa à propriedade font-size da tag <html>, portanto se a tag <html> tem 16px de font-size 1 REM é equivalente à 16px. EM é relativa à propriedade font-size da tag mãe, portanto se a tag mãe tiver um font-size de 16px 1 EM é equivalente à 16px. 
+
+>> EM pode ser aplicado num contexto específico e o REM para o geral.
+
+>> Tipos de img
+Qualidade: PNG > JPG > 
+Tamanho: PNG > JPG > SVG
+Gif: animações, com qualidade baixa, podem ser arquivos grandes por conta do formato da tela.
+SVG: são imagens criadas através de instruções de computador, manda a instrução e o computador calcula e cria. 
+
+>> Projetos Mobile First.
+
+>> Variáveis no CSS (:root = html {}, porém é mais específico e mais 'forte', não será sobrescrito.)
+seletor {
+    --nome-da-variavel: valor;
+}
