@@ -25,3 +25,7 @@ SVG: são imagens criadas através de instruções de computador, manda a instru
 seletor {
     --nome-da-variavel: valor;
 }
+
+>> Uma das unidades de medidas além de px e % é vw (viewport).
+
+>> Caso as imagens não possua semântica no arquivo html, ela será colocada apenas pelo CSS.
